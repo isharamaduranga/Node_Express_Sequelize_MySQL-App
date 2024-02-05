@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58e7e791-7e35-4d97-be33-69da5c11718f" name="Changes" comment="" />
+    <list default="true" id="58e7e791-7e35-4d97-be33-69da5c11718f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Node_Express_Sequelize_MySQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/dbConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/productController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/reviewController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/productModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/reviewModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/productRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +31,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707105700188</updated>
       <workItem from="1707105701572" duration="557000" />
-      <workItem from="1707106280949" duration="8704000" />
+      <workItem from="1707106280949" duration="9147000" />
     </task>
     <servers />
   </component>
